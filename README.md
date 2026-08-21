@@ -33,12 +33,12 @@
 
 <div align="left">
 
-<span style="color:#00A651;">✦</span> **Nome:** Bernardo Guilhon  
+<span style="color:#00A651;">✦</span> **Nome:** Bernardo Guilhon 🙋‍♂️ 
 <span style="color:#00A651;">✦</span> **Usuário:** @BernardoGuilhon  
-<span style="color:#00A651;">✦</span> **Local:** Rio de Janeiro, Brasil  
-<span style="color:#00A651;">✦</span> **Curso:** Análise e Desenvolvimento de Sistemas  
-<span style="color:#00A651;">✦</span> **Período:** 4º período — em andamento  
-<span style="color:#00A651;">✦</span> **Objetivo:** Desenvolvedor Full Stack  
+<span style="color:#00A651;">✦</span> **Local:** Rio de Janeiro, Brasil 🔰​ 
+<span style="color:#00A651;">✦</span> **Curso:** Análise e Desenvolvimento de Sistemas 💻  
+<span style="color:#00A651;">✦</span> **Período:** 4º período — em andamento 📖 
+<span style="color:#00A651;">✦</span> **Objetivo:** Desenvolvedor Full Stack em Formação | Front-end & UI Designer 🖌️ 
 
 </div>
 
@@ -87,19 +87,19 @@
 ### ✦ Sobre mim 
 
 <p align="justify">
-Sou estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong> e estou sempre buscando aprender, experimentar e evoluir na área de tecnologia. Gosto de transformar ideias em projetos e explorar novas possibilidades através da programação.
+Sou estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>, mas vejo a tecnologia como muito mais do que apenas código. Gosto de transformar ideias em experiências, explorar diferentes formas de expressão e dar vida a projetos através da criatividade e da programação.
 </p>
 
 <p align="justify">
-Além da tecnologia, a <strong>arte e a ilustração</strong> fazem parte importante de quem sou. Crio <strong>quadrinhos, ilustrações e projetos visuais</strong>, buscando unir criatividade e tecnologia em tudo que desenvolvo.
+A <strong>arte, a ilustração e o design</strong> ocupam um espaço importante no que faço. Crio <strong>ilustrações, projetos visuais e conceitos</strong>, buscando sempre experimentar estilos, atmosferas e novas formas de contar histórias.
 </p>
 
 <p align="justify">
-Também sou apaixonado por <strong>jogos retrô, videogames e mangás</strong>, especialmente <strong>Hunter x Hunter</strong>. Atualmente, estou aprimorando minhas habilidades em <strong>programação, design e arte</strong>, sempre buscando novos desafios e oportunidades para aprender.
+Também tenho grande interesse por <strong>jogos, estética retrô, videogames, animações e mangás</strong>, que frequentemente servem como inspiração para minhas criações. Atualmente, sigo aprimorando minhas habilidades em <strong>programação, arte e design</strong>, tentando unir esses universos em projetos que tenham personalidade própria.
 </p>
 
 <p align="justify">
-<strong>✦ Interesses:</strong> Tecnologia • Programação • Design • Ilustração • Quadrinhos • Games • Mangás
+<strong>✦ Interesses:</strong> Arte • Ilustração • Design • Programação • Quadrinhos • Storytelling • Games • Estética Retrô • Mangás
 </p>
 
 </td>
@@ -110,11 +110,11 @@ Também sou apaixonado por <strong>jogos retrô, videogames e mangás</strong>, 
 <br/>
 <div align="center">
 
-  <a href="https://www.behance.net/BernardoGuilhon" target="_blank">
-    <img src="./assets/icons/behance.svg" width="52" height="52" alt="Behance"/>
+  <a href="https://twitter.com/YarmAlley" target="_blank">
+  <img src="./assets/icons/twitter.svg" width="52" height="52" alt="Twitter"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:BernardoGuilhon" target="_blank">
+  <a href="mailto:guilhon.portcarreira" target="_blank">
     <img src="./assets/icons/e-mail.svg" width="52" height="52" alt="Email"/>
   </a>
   &nbsp;&nbsp;
@@ -386,16 +386,16 @@ Também sou apaixonado por <strong>jogos retrô, videogames e mangás</strong>, 
 
 <div align="center">
 
-Além do código, vivo pela arte. Ilustrações, quadrinhos e pixel art são minha segunda linguagem.
+Além da Matrix, vivo pela arte. Ilustrações, Edições e Cinema são minha segunda linguagem.
 
 <br/>
 
- <img src="./assets/icons/logo-instagram.svg" width="160" alt="Instagram de Desenho @BernardoGuilhon"/>
+ <img src="./assets/icons/logo-instagram.svg" width="160" alt="Instagram de Desenho @YarmAlley"/>
 
 <br/>
 
-<a href="https://www.instagram.com/BernardoGuilhon" target="_blank">
-<img src="./assets/icons/name_instagram.svg" width="250" alt="BernardoGuilhon"/>
+<a href="https://www.instagram.com/YarmAlley" target="_blank">
+<img src="./assets/icons/name_instagram.svg" width="250" alt="YarmAlley"/>
 </a>
 
 <br/>
@@ -409,7 +409,7 @@ Além do código, vivo pela arte. Ilustrações, quadrinhos e pixel art são min
   
   <sub>Feito com dedicação por <strong>Bernardo Guilhon</strong> · <a href="https://github.com/BernardoGuilhon">@BernardoGuilhon</a></sub>
   <br/>
-  <sub><em>"Cada dia me superando."</em></sub>
+  <sub><em>"Que seja feita a Vontade do Rei."</em></sub>
 </div>
 
 ---
