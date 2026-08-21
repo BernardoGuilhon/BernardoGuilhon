@@ -33,12 +33,12 @@
 
 <div align="left">
 
-<span style="color:#00A651;">✦</span> **Nome:** Bernardo Guilhon 🙋‍♂️ 
-<span style="color:#00A651;">✦</span> **Usuário:** @BernardoGuilhon  
-<span style="color:#00A651;">✦</span> **Local:** Rio de Janeiro, Brasil 🔰​ 
-<span style="color:#00A651;">✦</span> **Curso:** Análise e Desenvolvimento de Sistemas 💻  
-<span style="color:#00A651;">✦</span> **Período:** 4º período — em andamento 📖 
-<span style="color:#00A651;">✦</span> **Objetivo:** Desenvolvedor Full Stack em Formação | Front-end & UI Designer 🖌️ 
+<span style="color:#00A651;">✦</span> **Nome:** Bernardo Guilhon 🙋‍♂️<br>
+<span style="color:#00A651;">✦</span> **Usuário:** @BernardoGuilhon<br>
+<span style="color:#00A651;">✦</span> **Local:** Rio de Janeiro, Brasil 🔰<br>
+<span style="color:#00A651;">✦</span> **Curso:** Análise e Desenvolvimento de Sistemas 💻<br>
+<span style="color:#00A651;">✦</span> **Período:** 4º período — em andamento 📖<br>
+<span style="color:#00A651;">✦</span> **Objetivo:** Desenvolvedor Full Stack em Formação | Front-end & UI Designer 🖌️
 
 </div>
 
