@@ -84,7 +84,7 @@
 <!-- Text -->
 <td valign="middle" width="58%">
 
-### ✦ Sobre mim 
+<h3 align="center">✦ - - - - - { Sobre mim 🙋‍♂️ } - - - - - ✦</h3>
 
 <p align="justify">
 Sou estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>, mas vejo a tecnologia como muito mais do que apenas código. Gosto de transformar ideias em experiências, explorar diferentes formas de expressão e dar vida a projetos através da criatividade e da programação.
@@ -105,7 +105,7 @@ Também tenho grande interesse por <strong>jogos, estética retrô, videogames, 
 </td>
 
 <!-- ══════════════════ CONTATO ══════════════════ -->
-## Contatos
+## Contatos ☎️​
 
 <br/>
 <div align="center">
@@ -125,7 +125,7 @@ Também tenho grande interesse por <strong>jogos, estética retrô, videogames, 
 </div>
 
 <!-- ══════════════════ TECNOLOGIAS ══════════════════ -->
-## Tecnologias
+## Tecnologias 📶​
 
 <div align="center">
 
