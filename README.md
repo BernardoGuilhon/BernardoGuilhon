@@ -136,6 +136,8 @@ Também tenho grande interesse por <strong>jogos, estética retrô, videogames, 
 
 <!-- ══════════════════ TECNOLOGIAS ══════════════════ -->
 ## Tecnologias 📶​
+<h3 align="center">✦꧁༺..•┈๑⋅⋯-⫘⫘⫘⫘⫘⫘{「 ..Tecnologias 📶.. 」}⫘⫘⫘⫘⫘⫘-⋯⋅๑┈•..༻꧂✦</h3>
+<h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
 
 <div align="center">
 
@@ -353,6 +355,7 @@ Também tenho grande interesse por <strong>jogos, estética retrô, videogames, 
 </table>
 
 <br/>
+<h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
 
 <!-- LOGOS ESPECIAIS (maiores — wordmarks) -->
 <img src="./assets/icons/vscode-logotype.svg" height="100" alt="VSCode Logo"/>&nbsp;&nbsp;
