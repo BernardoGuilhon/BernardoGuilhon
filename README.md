@@ -3,7 +3,7 @@
 <!-- ══════════════════ BANNER ══════════════════ -->
 <div align="center">
 <h3 align="center">✦꧁•⋯─════════════════════════════════════════════════════─⋯•꧂✦</h3>
-
+<hr>
   <img src="./assets/icons/name_titulo.svg" alt="Bernardo Guilhon" width="500"/>
 
   <p>
@@ -15,7 +15,7 @@
 <!-- ══════════════════ TYPING ══════════════════ -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00a651&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%7C+4%C2%BA+Periodo;Futuro+Desenvolvedor+Full+Stack;Apaixonado+por+Design+e+Arte;Cada+dia+me+superando" alt="Typing SVG"/>
-
+<hr>
 <h3 align="center">✦•⋯─══════════════════════════════════════════════════════─⋯•✦</h3>
 
 </div>
