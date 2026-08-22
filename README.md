@@ -2,7 +2,7 @@
 
 <!-- ══════════════════ BANNER ══════════════════ -->
 <div align="center">
-<h3 align="center">✦꧁•⋯─══════════════════════════════════════════════════════─⋯•꧂✦</h3>
+<h3 align="center">✦꧁•⋯─════════════════════════════════════════════════════─⋯•꧂✦</h3>
 
   <img src="./assets/icons/name_titulo.svg" alt="Bernardo Guilhon" width="500"/>
 
@@ -16,7 +16,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00a651&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%7C+4%C2%BA+Periodo;Futuro+Desenvolvedor+Full+Stack;Apaixonado+por+Design+e+Arte;Cada+dia+me+superando" alt="Typing SVG"/>
 
-<h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
+<h3 align="center">✦•⋯─══════════════════════════════════════════════════════─⋯•✦</h3>
 
 </div>
 
@@ -88,9 +88,9 @@
 
 <!-- Text -->
 <td valign="middle" width="58%">
-<h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
-<h3 align="center">✦꧁༺..•┈๑⋅⋯-┈⋅⋯═•┈{✦}══════{「 ..Sobre mim 🙋‍♂️.. 」}══════{✦}┈•═⋯⋅┈-⋯⋅๑┈•..༻꧂✦</h3>
-<h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
+<h3 align="center">✦꧁•⋯─════════════════════════════════════════════════════─⋯•꧂✦</h3>
+<h3 align="center">✦{「 ..Sobre mim 🙋‍♂️.. 」}✦</h3>
+<h3 align="center">✦•⋯─══════════════════════════════════════════════════════─⋯•✦</h3>
 <hr>
 <p align="justify">
 Sou estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>, mas vejo a tecnologia como muito mais do que apenas código. Gosto de transformar ideias em experiências, explorar diferentes formas de expressão e dar vida a projetos através da criatividade e da programação.
