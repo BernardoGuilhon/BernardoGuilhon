@@ -441,17 +441,5 @@ Beyond the Matrix, I live for art. Illustration, editing, and film are my second
   </a>
 </div>
 
----
-
-<!-- ══════════════════ ARTE DECORATIVA ══════════════════ -->
-<br/>
-
-<div align="center">
-  <img 
-    src="./assets/icons/readme_art_BR.svg" 
-    alt="Decorative art" 
-    width="400"
-  />
-</div>
 <hr>
 <br/>
