@@ -89,7 +89,7 @@
 <!-- Text -->
 <td valign="middle" width="58%">
 <h3 align="center">✦꧁•⋯─════════════════════════════════════════════════════─⋯•꧂✦</h3>
-<h3 align="center">✦- - {「 - Sobre mim 🙋‍♂️ - 」} - - ✦</h3>
+<h3 align="center">✦- - [「 - Sobre mim 🙋‍♂️ - 」] - - ✦</h3>
 <h3 align="center">✦•⋯─══════════════════════════════════════════════════════─⋯•✦</h3>
 <hr>
 <p align="justify">
@@ -113,7 +113,7 @@ Também tenho grande interesse por <strong>jogos, estética retrô, videogames, 
 </td>
 
 <!-- ══════════════════ CONTATO ══════════════════ -->
-<h3 align="center">✦꧁༺..•┈๑⋅⋯-⫘⫘⫘⫘⫘⫘{「 ..Contatos ☎️.. 」}⫘⫘⫘⫘⫘⫘-⋯⋅๑┈•..༻꧂✦</h3>
+<h3 align="center">✦- - [「 - Contatos ☎️ - 」] - - ✦</h3>
 <h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
 <hr>
 <br/>
@@ -134,7 +134,7 @@ Também tenho grande interesse por <strong>jogos, estética retrô, videogames, 
 </div>
 <hr>
 <h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
-<h3 align="center">✦꧁༺..•┈๑⋅⋯-⫘⫘⫘⫘⫘⫘{「 ..Tecnologias 📶.. 」}⫘⫘⫘⫘⫘⫘-⋯⋅๑┈•..༻꧂✦</h3>
+<h3 align="center">✦- - [「 - Tecnologias 📶 - 」] - - ✦</h3>
 <h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
 <hr>
 <div align="center">
@@ -374,7 +374,7 @@ Também tenho grande interesse por <strong>jogos, estética retrô, videogames, 
 ---
 
 <h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
-<h3 align="center">✦꧁༺..•┈๑⋅⋯-⫘⫘⫘⫘{「 ..Git Hub Stats 📶.. 」}⫘⫘⫘⫘-⋯⋅๑┈•..༻꧂✦</h3>
+<h3 align="center">✦- - [「 - GitHub Stats 📶 - 」] - - ✦</h3>
 <h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
 
 <hr>
@@ -387,7 +387,7 @@ Também tenho grande interesse por <strong>jogos, estética retrô, videogames, 
 
 <!-- ══════════════════ ATIVIDADE ══════════════════ -->
 <h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
-<h3 align="center">✦꧁༺..•┈๑⋅⋯-⫘⫘⫘⫘{「 ..Atividade 📖.. 」}⫘⫘⫘⫘-⋯⋅๑┈•..༻꧂✦</h3>
+<h3 align="center">✦- - [「 - Atividade 📖 - 」] - - ✦</h3>
 <h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
 
 <hr>
