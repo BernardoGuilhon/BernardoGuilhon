@@ -134,12 +134,11 @@ Também tenho grande interesse por <strong>jogos, estética retrô, videogames, 
 </div>
 <h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
 
-<!-- ══════════════════ TECNOLOGIAS ══════════════════ -->
-## Tecnologias 📶​
+<!-- ══════════════════ TECNOLOGIAS ══════════════════ -->​
 <h3 align="center">✦꧁༺..•┈๑⋅⋯-⫘⫘⫘⫘⫘⫘{「 ..Tecnologias 📶.. 」}⫘⫘⫘⫘⫘⫘-⋯⋅๑┈•..༻꧂✦</h3>
 <h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
 
-<div align="center">
+
 
 <table>
   <tr>
