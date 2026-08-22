@@ -108,11 +108,10 @@ Também tenho grande interesse por <strong>jogos, estética retrô, videogames, 
 <strong>✦ Interesses:</strong> Arte • Ilustração • Design • Programação • Quadrinhos • Storytelling • Games • Estética Retrô • Mangás
 </p>
 <hr>
-<h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
 
 </td>
 
-<!-- ══════════════════ CONTATO ══════════════════ -->
+<h3 align="center">✦꧁•⋯─════════════════════════════════════════════════════─⋯•꧂✦</h3>
 <h3 align="center">✦- - [「 - Contatos ☎️ - 」] - - ✦</h3>
 <h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
 <hr>
@@ -133,7 +132,7 @@ Também tenho grande interesse por <strong>jogos, estética retrô, videogames, 
 
 </div>
 <hr>
-<h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
+<h3 align="center">✦꧁•⋯─════════════════════════════════════════════════════─⋯•꧂✦</h3>
 <h3 align="center">✦- - [「 - Tecnologias 📶 - 」] - - ✦</h3>
 <h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
 <hr>
@@ -373,7 +372,7 @@ Também tenho grande interesse por <strong>jogos, estética retrô, videogames, 
 
 ---
 
-<h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
+<h3 align="center">✦꧁•⋯─════════════════════════════════════════════════════─⋯•꧂✦</h3>
 <h3 align="center">✦- - [「 - GitHub Stats 📶 - 」] - - ✦</h3>
 <h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
 
@@ -386,7 +385,7 @@ Também tenho grande interesse por <strong>jogos, estética retrô, videogames, 
 <hr>
 
 <!-- ══════════════════ ATIVIDADE ══════════════════ -->
-<h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
+<h3 align="center">✦꧁•⋯─════════════════════════════════════════════════════─⋯•꧂✦</h3>
 <h3 align="center">✦- - [「 - Atividade 📖 - 」] - - ✦</h3>
 <h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
 
