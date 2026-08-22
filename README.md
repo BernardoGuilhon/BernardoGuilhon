@@ -441,17 +441,5 @@ Além da Matrix, vivo pela arte. Ilustrações, Edições e Cinema são minha se
   </a>
 </div>
 
----
-
-<!-- ══════════════════ ARTE DECORATIVA ══════════════════ -->
-<br/>
-
-<div align="center">
-  <img 
-    src="./assets/icons/readme_art_BR.svg" 
-    alt="Arte decorativa" 
-    width="400"
-  />
-</div>
 <hr>
 <br/>
