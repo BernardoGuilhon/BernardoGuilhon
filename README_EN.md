@@ -1,9 +1,10 @@
-<!--  README_EN — Gustavo Casanova — @gcasiv — English Version -->
+<!--  README — Bernardo Guilhon — @BernardoGuilhon -->
 
 <!-- ══════════════════ BANNER ══════════════════ -->
 <div align="center">
-
-  <img src="./assets/icons/name_titulo.svg" alt="Gustavo Casanova" width="500"/>
+<h3 align="center">✦꧁•⋯─════════════════════════════════════════════════════─⋯•꧂✦</h3>
+<hr>
+  <img src="./assets/icons/name_titulo.svg" alt="Bernardo Guilhon" width="500"/>
 
   <p>
   <strong>Full Stack Developer in Training&nbsp; | &nbsp;Designer&nbsp; | &nbsp;Illustrator</strong>
@@ -13,19 +14,23 @@
 
 <!-- ══════════════════ TYPING ══════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00a651&center=true&vCenter=true&width=600&lines=ADS+Student+%7C+4th+Semester;Future+Full+Stack+Developer;Passionate+About+Design+and+Art;Improving+Myself+Every+Day" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A83B4C&center=true&vCenter=true&width=600&lines=CS+Student+%7C+4th+Semester;Future+Full+Stack+Developer;Passionate+about+Design+and+Art;Pushing+myself+further+every+day" alt="Typing SVG"/>
+<hr>
+<h3 align="center">✦•⋯─══════════════════════════════════════════════════════─⋯•✦</h3>
+
 </div>
+
 
 ---
 
-<!-- ══════════════════ ABOUT ME ══════════════════ -->
+<!-- ══════════════════ SOBRE MIM ══════════════════ -->
 <div align="center">
 <table border="0" cellpadding="16" cellspacing="0">
 <tr>
 
 <td valign="top" width="58%">
 
-### ✦ Hello, I'm Gustavo!
+### ✦ Hi, I'm Bernardo!
 
 <table border="0" cellpadding="12" cellspacing="0">
 <tr>
@@ -33,12 +38,12 @@
 
 <div align="left">
 
-<span style="color:#00A651;">✦</span> **Name:** Gustavo Da Silva Casanova  
-<span style="color:#00A651;">✦</span> **Username:** @gcasiv  
-<span style="color:#00A651;">✦</span> **Location:** Rio de Janeiro, Brazil  
-<span style="color:#00A651;">✦</span> **Course:** Systems Analysis and Development  
-<span style="color:#00A651;">✦</span> **Semester:** 4th semester — in progress  
-<span style="color:#00A651;">✦</span> **Goal:** Full Stack Developer  
+<span style="color:#A83B4C;">✦</span> <em>**Name:** Bernardo Guilhon 🙋‍♂️</em><br>
+<span style="color:#A83B4C;">✦</span> <em>**Username:** @BernardoGuilhon</em><br>
+<span style="color:#A83B4C;">✦</span> <em>**Location:** Rio de Janeiro, Brazil 🔰</em><br>
+<span style="color:#A83B4C;">✦</span> <em>**Degree:** Systems Analysis and Development 💻</em><br>
+<span style="color:#A83B4C;">✦</span> <em>**Semester:** 4th semester — in progress 📖</em><br>
+<span style="color:#A83B4C;">✦</span> <em>**Goal:** Full Stack Developer in Training | Front-end & UI Designer 🖌️</em>
 
 </div>
 
@@ -50,18 +55,18 @@
 
 <td valign="top" width="42%" align="center">
 
-<!-- GIF/ANIMATION -->
-<img src="./assets/icons/gon.gif" width="200" alt="Animation" style="border-radius: 10px;"/>
+<!-- GIF/ANIMAÇÃO -->
+<img src="./assets/icons/gon.gif" width="200" alt="Animação" style="border-radius: 10px;"/>
 
 <br/>
 
 <!-- VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=gcasiv&color=00a651&style=flat-square&label=Visitors" alt="Visitors"/>
+<img src="https://komarev.com/ghpvc/?username=BernardoGuilhon&color=A83B4C&style=flat-square&label=Visitors" alt="Visitantes"/>
 
 <br/>
 
-<a href="https://github.com/gcasiv?tab=followers">
-  <img src="https://img.shields.io/github/followers/gcasiv?label=Followers&style=flat-square&color=00a651&labelColor=0d1117" alt="Followers"/>
+<a href="https://github.com/BernardoGuilhon?tab=followers">
+  <img src="https://img.shields.io/github/followers/BernardoGuilhon?label=Followers&style=flat-square&color=A83B4C&labelColor=0d1117" alt="Seguidores"/>
 </a>
 
 </td>
@@ -75,7 +80,7 @@
 <!-- ══════════════════ TYPING 2 ══════════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00A651&center=true&vCenter=true&width=700&lines=%3E+Initializing+profile...;%3E+Welcome+to+my+GitHub;%3E+Building.+Learning.+Creating." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A83B4C&center=true&vCenter=true&width=700&lines=%3E+Initializing+profile...;%3E+Welcome+to+my+GitHub;%3E+Building.+Learning.+Creating." />
 
 </div>
 
@@ -83,50 +88,54 @@
 
 <!-- Text -->
 <td valign="middle" width="58%">
-
-### ✦ About Me
-
+<h3 align="center">✦꧁•⋯─════════════════════════════════════════════════════─⋯•꧂✦</h3>
+<h3 align="center">✦- - [「 - About me 🙋‍♂️ - 」] - - ✦</h3>
+<h3 align="center">✦•⋯─══════════════════════════════════════════════════════─⋯•✦</h3>
+<hr>
 <p align="justify">
-I am a <strong>Systems Analysis and Development (ADS)</strong> student who is always looking to learn, experiment, and grow in the technology field. I enjoy turning ideas into projects and exploring new possibilities through programming.
+<em>I'm a <strong>Systems Analysis and Development (ADS)</strong> student, but I see technology as much more than just code. I like turning ideas into experiences, exploring different forms of expression, and bringing projects to life through creativity and programming.</em>
 </p>
 
 <p align="justify">
-Beyond technology, <strong>art and illustration</strong> are an important part of who I am. I create <strong>comics, illustrations, and visual projects</strong>, seeking to combine creativity and technology in everything I develop.
+<em><strong>Art, illustration, and design</strong> hold an important place in what I do. I create <strong>illustrations, visual projects, and concepts</strong>, always looking to experiment with styles, moods, and new ways of telling stories.</em>
 </p>
 
 <p align="justify">
-I am also passionate about <strong>retro games, video games, and manga</strong>, especially <strong>Hunter x Hunter</strong>. Currently, I am improving my skills in <strong>programming, design, and art</strong>, always looking for new challenges and opportunities to learn.
+<em>I also have a strong interest in <strong>games, retro aesthetics, video games, animation, and manga</strong>, which often inspire my creations. I'm currently sharpening my skills in <strong>programming, art, and design</strong>, trying to bring these worlds together into projects with their own personality.</em>
 </p>
 
 <p align="justify">
-<strong>✦ Interests:</strong> Technology • Programming • Design • Illustration • Comics • Games • Manga
+<em><strong>✦ Interests:</strong> Art • Illustration • Design • Programming • Comics • Storytelling • Games • Retro Aesthetics • Manga</em>
 </p>
+<hr>
 
 </td>
 
-<!-- ══════════════════ CONTACT ══════════════════ -->
-## Contacts
-
+<h3 align="center">✦꧁•⋯─════════════════════════════════════════════════════─⋯•꧂✦</h3>
+<h3 align="center">✦- - [「 - Contact ☎️ - 」] - - ✦</h3>
+<h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
+<hr>
 <br/>
 <div align="center">
 
-  <a href="https://www.behance.net/gcasiv" target="_blank">
-    <img src="./assets/icons/behance.svg" width="52" height="52" alt="Behance"/>
+  <a href="https://twitter.com/YarmAlley" target="_blank">
+  <img src="./assets/icons/twitter.svg" width="52" height="52" alt="Twitter"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:gustavoocasanova@gmail.com" target="_blank">
+  <a href="mailto:guilhon.portcarreira" target="_blank">
     <img src="./assets/icons/e-mail.svg" width="52" height="52" alt="Email"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gcasiv" target="_blank">
+  <a href="https://www.linkedin.com/in/BernardoGuilhon" target="_blank">
     <img src="./assets/icons/linkedin.svg" width="52" height="52" alt="LinkedIn"/>
   </a>
 
 </div>
-
-<!-- ══════════════════ TECH STACK ══════════════════ -->
-## Tech Stack
-
+<hr>
+<h3 align="center">✦꧁•⋯─════════════════════════════════════════════════════─⋯•꧂✦</h3>
+<h3 align="center">✦- - [「 - Technologies 📶 - 」] - - ✦</h3>
+<h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
+<hr>
 <div align="center">
 
 <table>
@@ -344,7 +353,7 @@ I am also passionate about <strong>retro games, video games, and manga</strong>,
 
 <br/>
 
-<!-- SPECIAL LOGOS -->
+<!-- LOGOS ESPECIAIS (maiores — wordmarks) -->
 <img src="./assets/icons/vscode-logotype.svg" height="100" alt="VSCode Logo"/>&nbsp;&nbsp;
 <img src="./assets/icons/notepad++-logotype.svg" height="100" alt="Notepad++"/>&nbsp;&nbsp;
 <img src="./assets/icons/github-logotype.svg" height="100" alt="GitHub Logo"/>&nbsp;&nbsp;
@@ -354,48 +363,55 @@ I am also passionate about <strong>retro games, video games, and manga</strong>,
 
 <!-- BADGES -->
 <div align="center"> 
-  <img src="https://img.shields.io/badge/Proficient-00A651?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Proficient-A83B4C?style=flat-square&labelColor=0d1117&color=A83B4C"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Improving-00A651?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Improving-A83B4C?style=flat-square&labelColor=0d1117&color=A83B4C"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Studying-00A651?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Studying-A83B4C?style=flat-square&labelColor=0d1117&color=A83B4C"/>
 </div>
 
 ---
 
-<!-- ══════════════════ GITHUB STATS ══════════════════ -->
-## GitHub Stats
+<h3 align="center">✦꧁•⋯─════════════════════════════════════════════════════─⋯•꧂✦</h3>
+<h3 align="center">✦- - [「 - GitHub Stats 📶 - 」] - - ✦</h3>
+<h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
 
+<hr>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gcasiv&theme=merko&border=00a651&ring=00a651&fire=39d353&currStreakLabel=00a651&sideLabels=00a651&dates=c9d1d9&background=0d1117" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=BernardoGuilhon&theme=dark&border=A83B4C&ring=A83B4C&fire=A83B4C&currStreakLabel=A83B4C&sideLabels=A83B4C&dates=c9d1d9&background=0d1117" height="165"/>
 </div>
 
 ---
+<hr>
 
-<!-- ══════════════════ ACTIVITY ══════════════════ -->
-## Activity
+<!-- ══════════════════ ATIVIDADE ══════════════════ -->
+<h3 align="center">✦꧁•⋯─════════════════════════════════════════════════════─⋯•꧂✦</h3>
+<h3 align="center">✦- - [「 - Activity 📖 - 」] - - ✦</h3>
+<h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
 
+<hr>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gcasiv&bg_color=0d1117&color=00a651&line=39d353&point=ffffff&area=true&area_color=006622&border_color=00a651" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BernardoGuilhon&bg_color=0d1117&color=A83B4C&line=A83B4C&point=FFFFFF&area=true&area_color=3B0F17&border_color=A83B4C" width="95%"/>
 </div>
 
 ---
-
-<!-- ══════════════════ ART & ILLUSTRATION ══════════════════ -->
-## Art & Illustration
+<hr>
+<h3 align="center">✦꧁•⋯─════════════════════════════════════════════════════─⋯•꧂✦</h3>
+<h3 align="center">✦- - [「 - Art & Illustration 🎨 - 」] - - ✦</h3>
+<h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
 
 <div align="center">
 
-Besides coding, I live for art. Illustrations, comics, and pixel art are my second language.
+Beyond the Matrix, I live for art. Illustration, editing, and film are my second language.
+<hr>
+<br/>
+
+ <img src="./assets/icons/logo-instagram.svg" width="160" alt="Drawing Instagram @YarmAlley"/>
 
 <br/>
 
- <img src="./assets/icons/logo-instagram.svg" width="160" alt="Drawing Instagram @colliriall"/>
-
-<br/>
-
-<a href="https://www.instagram.com/colliriall" target="_blank">
-<img src="./assets/icons/name_instagram.svg" width="250" alt="colliriall"/>
+<a href="https://www.instagram.com/YarmAlley" target="_blank">
+<img src="./assets/icons/name_instagram.svg" width="250" alt="YarmAlley"/>
 </a>
 
 <br/>
@@ -407,17 +423,17 @@ Besides coding, I live for art. Illustrations, comics, and pixel art are my seco
 <!-- ══════════════════ FOOTER ══════════════════ -->
 <div align="center">
   
-  <sub>Made with dedication by <strong>Gustavo Casanova</strong> · <a href="https://github.com/gcasiv">@gcasiv</a></sub>
+  <sub><em>Made with dedication by <strong>Bernardo Guilhon</strong> · <a href="https://github.com/BernardoGuilhon">@BernardoGuilhon</a></em></sub>
   <br/>
-  <sub><em>"Improving myself every day."</em></sub>
+  <sub><em>"Let the Will of the King be done."</em></sub>
 </div>
 
 ---
 
-<!-- ══════════════════ FLAGS / LANGUAGE ══════════════════ -->
+<!-- ══════════════════ BANDEIRAS / IDIOMA ══════════════════ -->
 <div align="center">
   <a href="./README.md">
-    <img src="./assets/icons/BR-Brazil.svg" width="40" height="40" alt="Português"/>
+    <img src="./assets/icons/BR-Brazil.svg" width="48" height="48" alt="Portuguese"/>
   </a>
   &nbsp;&nbsp;
   <a href="./README_EN.md">
@@ -427,15 +443,15 @@ Besides coding, I live for art. Illustrations, comics, and pixel art are my seco
 
 ---
 
-<!-- ══════════════════ DECORATIVE ART ══════════════════ -->
+<!-- ══════════════════ ARTE DECORATIVA ══════════════════ -->
 <br/>
 
 <div align="center">
   <img 
-    src="./assets/icons/readme_art_EN.svg" 
+    src="./assets/icons/readme_art_BR.svg" 
     alt="Decorative art" 
     width="400"
   />
 </div>
-
+<hr>
 <br/>
