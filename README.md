@@ -134,7 +134,6 @@ Também tenho grande interesse por <strong>jogos, estética retrô, videogames, 
 </div>
 <hr>
 <h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
-<!-- ══════════════════ TECNOLOGIAS ══════════════════ -->​
 <h3 align="center">✦꧁༺..•┈๑⋅⋯-⫘⫘⫘⫘⫘⫘{「 ..Tecnologias 📶.. 」}⫘⫘⫘⫘⫘⫘-⋯⋅๑┈•..༻꧂✦</h3>
 <h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
 <hr>
@@ -375,14 +374,17 @@ Também tenho grande interesse por <strong>jogos, estética retrô, videogames, 
 ---
 <h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
 <!-- ══════════════════ GITHUB STATS ══════════════════ -->
-## GitHub Stats
+<h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
+<h3 align="center">✦꧁༺..•┈๑⋅⋯-⫘⫘⫘⫘{「 ..Git Hub Stats 📶.. 」}⫘⫘⫘⫘-⋯⋅๑┈•..༻꧂✦</h3>
+<h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
 
+<hr>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=BernardoGuilhon&theme=merko&border=00a651&ring=00a651&fire=39d353&currStreakLabel=00a651&sideLabels=00a651&dates=c9d1d9&background=0d1117" height="165"/>
 </div>
 
 ---
-
+<hr>
 <!-- ══════════════════ ATIVIDADE ══════════════════ -->
 ## Atividade
 
