@@ -372,8 +372,7 @@ Também tenho grande interesse por <strong>jogos, estética retrô, videogames, 
 </div>
 
 ---
-<h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
-<!-- ══════════════════ GITHUB STATS ══════════════════ -->
+
 <h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
 <h3 align="center">✦꧁༺..•┈๑⋅⋯-⫘⫘⫘⫘{「 ..Git Hub Stats 📶.. 」}⫘⫘⫘⫘-⋯⋅๑┈•..༻꧂✦</h3>
 <h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
@@ -385,15 +384,19 @@ Também tenho grande interesse por <strong>jogos, estética retrô, videogames, 
 
 ---
 <hr>
-<!-- ══════════════════ ATIVIDADE ══════════════════ -->
-## Atividade
 
+<!-- ══════════════════ ATIVIDADE ══════════════════ -->
+<h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
+<h3 align="center">✦꧁༺..•┈๑⋅⋯-⫘⫘⫘⫘{「 ..Atividade 📖.. 」}⫘⫘⫘⫘-⋯⋅๑┈•..༻꧂✦</h3>
+<h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
+
+<hr>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BernardoGuilhon&bg_color=0d1117&color=00a651&line=39d353&point=ffffff&area=true&area_color=006622&border_color=00a651" width="95%"/>
 </div>
 
 ---
-
+<hr>
 <!-- ══════════════════ ARTE & ILUSTRACAO ══════════════════ -->
 ## Arte & Ilustração
 
