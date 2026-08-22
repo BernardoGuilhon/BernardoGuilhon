@@ -85,7 +85,7 @@
 <td valign="middle" width="58%">
 
 <h3 align="center">✦꧁༺..•┈๑⋅⋯-┈⋅⋯─•-┈─⋅⋯-┈⋅─-{✦}•-{「 ..Sobre mim 🙋‍♂️.. 」}-•{✦}-─⋅┈-⋯⋅─┈-•─⋯⋅┈-⋯⋅๑┈•..༻꧂✦</h3>
-<h3 align="center">✦•⋯─══════════════════════════════════════════════════════════─⋯•✦</h3>
+<h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
 
 <p align="justify">
 Sou estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>, mas vejo a tecnologia como muito mais do que apenas código. Gosto de transformar ideias em experiências, explorar diferentes formas de expressão e dar vida a projetos através da criatividade e da programação.
