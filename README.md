@@ -2,12 +2,14 @@
 
 <!-- ══════════════════ BANNER ══════════════════ -->
 <div align="center">
+<h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
 
   <img src="./assets/icons/name_titulo.svg" alt="Bernardo Guilhon" width="500"/>
 
   <p>
   <strong>Desenvolvedor Full Stack em Formação&nbsp; | &nbsp;Designer&nbsp; | &nbsp;Ilustrador</strong>
   </p>
+<h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
 
 </div>
 
