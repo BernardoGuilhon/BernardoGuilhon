@@ -396,8 +396,9 @@ Também tenho grande interesse por <strong>jogos, estética retrô, videogames, 
 
 ---
 <hr>
-<!-- ══════════════════ ARTE & ILUSTRACAO ══════════════════ -->
-## Arte & Ilustração
+<h3 align="center">✦꧁•⋯─════════════════════════════════════════════════════─⋯•꧂✦</h3>
+<h3 align="center">✦- - [「 - Arte & Ilustração 🎨 - 」] - - ✦</h3>
+<h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
 
 <div align="center">
 
