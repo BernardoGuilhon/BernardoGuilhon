@@ -403,7 +403,7 @@ Também tenho grande interesse por <strong>jogos, estética retrô, videogames, 
 <div align="center">
 
 Além da Matrix, vivo pela arte. Ilustrações, Edições e Cinema são minha segunda linguagem.
-
+<hr>
 <br/>
 
  <img src="./assets/icons/logo-instagram.svg" width="160" alt="Instagram de Desenho @YarmAlley"/>
