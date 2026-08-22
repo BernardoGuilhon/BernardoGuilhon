@@ -115,7 +115,7 @@ Também tenho grande interesse por <strong>jogos, estética retrô, videogames, 
 <!-- ══════════════════ CONTATO ══════════════════ -->
 <h3 align="center">✦꧁༺..•┈๑⋅⋯-⫘⫘⫘⫘⫘⫘{「 ..Contatos ☎️.. 」}⫘⫘⫘⫘⫘⫘-⋯⋅๑┈•..༻꧂✦</h3>
 <h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
-
+<hr>
 <br/>
 <div align="center">
 
@@ -132,8 +132,8 @@ Também tenho grande interesse por <strong>jogos, estética retrô, videogames, 
   </a>
 
 </div>
+<hr>
 <h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
-
 <!-- ══════════════════ TECNOLOGIAS ══════════════════ -->​
 <h3 align="center">✦꧁༺..•┈๑⋅⋯-⫘⫘⫘⫘⫘⫘{「 ..Tecnologias 📶.. 」}⫘⫘⫘⫘⫘⫘-⋯⋅๑┈•..༻꧂✦</h3>
 <h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
