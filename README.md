@@ -103,6 +103,8 @@ Também tenho grande interesse por <strong>jogos, estética retrô, videogames, 
 <strong>✦ Interesses:</strong> Arte • Ilustração • Design • Programação • Quadrinhos • Storytelling • Games • Estética Retrô • Mangás
 </p>
 
+<h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
+
 </td>
 
 <!-- ══════════════════ CONTATO ══════════════════ -->
