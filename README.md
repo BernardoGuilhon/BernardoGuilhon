@@ -38,12 +38,12 @@
 
 <div align="left">
 
-<span style="color:#A83B4C;">✦</span> **Nome:** Bernardo Guilhon 🙋‍♂️<br>
-<span style="color:#A83B4C;">✦</span> **Usuário:** @BernardoGuilhon<br>
-<span style="color:#A83B4C;">✦</span> **Local:** Rio de Janeiro, Brasil 🔰<br>
-<span style="color:#A83B4C;">✦</span> **Curso:** Análise e Desenvolvimento de Sistemas 💻<br>
-<span style="color:#A83B4C;">✦</span> **Período:** 4º período — em andamento 📖<br>
-<span style="color:#A83B4C;">✦</span> **Objetivo:** Desenvolvedor Full Stack em Formação | Front-end & UI Designer 🖌️
+<span style="color:#A83B4C;">✦</span> <em>**Nome:** Bernardo Guilhon 🙋‍♂️</em><br>
+<span style="color:#A83B4C;">✦</span> <em>**Usuário:** @BernardoGuilhon</em><br>
+<span style="color:#A83B4C;">✦</span> <em>**Local:** Rio de Janeiro, Brasil 🔰</em><br>
+<span style="color:#A83B4C;">✦</span> <em>**Curso:** Análise e Desenvolvimento de Sistemas 💻</em><br>
+<span style="color:#A83B4C;">✦</span> <em>**Período:** 4º período — em andamento 📖</em><br>
+<span style="color:#A83B4C;">✦</span> <em>**Objetivo:** Desenvolvedor Full Stack em Formação | Front-end & UI Designer 🖌️</em>
 
 </div>
 
@@ -93,19 +93,19 @@
 <h3 align="center">✦•⋯─══════════════════════════════════════════════════════─⋯•✦</h3>
 <hr>
 <p align="justify">
-Sou estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>, mas vejo a tecnologia como muito mais do que apenas código. Gosto de transformar ideias em experiências, explorar diferentes formas de expressão e dar vida a projetos através da criatividade e da programação.
+<em>Sou estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>, mas vejo a tecnologia como muito mais do que apenas código. Gosto de transformar ideias em experiências, explorar diferentes formas de expressão e dar vida a projetos através da criatividade e da programação.</em>
 </p>
 
 <p align="justify">
-A <strong>arte, a ilustração e o design</strong> ocupam um espaço importante no que faço. Crio <strong>ilustrações, projetos visuais e conceitos</strong>, buscando sempre experimentar estilos, atmosferas e novas formas de contar histórias.
+<em>A <strong>arte, a ilustração e o design</strong> ocupam um espaço importante no que faço. Crio <strong>ilustrações, projetos visuais e conceitos</strong>, buscando sempre experimentar estilos, atmosferas e novas formas de contar histórias.</em>
 </p>
 
 <p align="justify">
-Também tenho grande interesse por <strong>jogos, estética retrô, videogames, animações e mangás</strong>, que frequentemente servem como inspiração para minhas criações. Atualmente, sigo aprimorando minhas habilidades em <strong>programação, arte e design</strong>, tentando unir esses universos em projetos que tenham personalidade própria.
+<em>Também tenho grande interesse por <strong>jogos, estética retrô, videogames, animações e mangás</strong>, que frequentemente servem como inspiração para minhas criações. Atualmente, sigo aprimorando minhas habilidades em <strong>programação, arte e design</strong>, tentando unir esses universos em projetos que tenham personalidade própria.</em>
 </p>
 
 <p align="justify">
-<strong>✦ Interesses:</strong> Arte • Ilustração • Design • Programação • Quadrinhos • Storytelling • Games • Estética Retrô • Mangás
+<em><strong>✦ Interesses:</strong> Arte • Ilustração • Design • Programação • Quadrinhos • Storytelling • Games • Estética Retrô • Mangás</em>
 </p>
 <hr>
 
@@ -423,7 +423,7 @@ Além da Matrix, vivo pela arte. Ilustrações, Edições e Cinema são minha se
 <!-- ══════════════════ FOOTER ══════════════════ -->
 <div align="center">
   
-  <sub>Feito com dedicação por <strong>Bernardo Guilhon</strong> · <a href="https://github.com/BernardoGuilhon">@BernardoGuilhon</a></sub>
+  <sub><em>Feito com dedicação por <strong>Bernardo Guilhon</strong> · <a href="https://github.com/BernardoGuilhon">@BernardoGuilhon</a></em></sub>
   <br/>
   <sub><em>"Que seja feita a Vontade do Rei."</em></sub>
 </div>
