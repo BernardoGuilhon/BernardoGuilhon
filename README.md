@@ -453,5 +453,5 @@ Além da Matrix, vivo pela arte. Ilustrações, Edições e Cinema são minha se
     width="400"
   />
 </div>
-
+<hr>
 <br/>
