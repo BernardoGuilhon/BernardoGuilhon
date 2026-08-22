@@ -114,6 +114,8 @@ Também tenho grande interesse por <strong>jogos, estética retrô, videogames, 
 
 <!-- ══════════════════ CONTATO ══════════════════ -->
 <h3 align="center">✦꧁༺..•┈๑⋅⋯-⫘⫘⫘⫘⫘⫘{「 ..Contatos ☎️.. 」}⫘⫘⫘⫘⫘⫘-⋯⋅๑┈•..༻꧂✦</h3>
+<h3 align="center">✦•⋯─════════════════════════════════════════════════════════─⋯•✦</h3>
+
 <br/>
 <div align="center">
 
