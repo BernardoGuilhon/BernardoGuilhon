@@ -14,7 +14,7 @@
 
 <!-- ══════════════════ TYPING ══════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%7C+4%C2%BA+Periodo;Futuro+Desenvolvedor+Full+Stack;Apaixonado+por+Design+e+Arte;Cada+dia+me+superando" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=8C2B3A&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%7C+4%C2%BA+Periodo;Futuro+Desenvolvedor+Full+Stack;Apaixonado+por+Design+e+Arte;Cada+dia+me+superando" alt="Typing SVG"/>
 <hr>
 <h3 align="center">✦•⋯─══════════════════════════════════════════════════════─⋯•✦</h3>
 
@@ -38,12 +38,12 @@
 
 <div align="left">
 
-<span style="color:#FFFFFF;">✦</span> **Nome:** Bernardo Guilhon 🙋‍♂️<br>
-<span style="color:#FFFFFF;">✦</span> **Usuário:** @BernardoGuilhon<br>
-<span style="color:#FFFFFF;">✦</span> **Local:** Rio de Janeiro, Brasil 🔰<br>
-<span style="color:#FFFFFF;">✦</span> **Curso:** Análise e Desenvolvimento de Sistemas 💻<br>
-<span style="color:#FFFFFF;">✦</span> **Período:** 4º período — em andamento 📖<br>
-<span style="color:#FFFFFF;">✦</span> **Objetivo:** Desenvolvedor Full Stack em Formação | Front-end & UI Designer 🖌️
+<span style="color:#8C2B3A;">✦</span> **Nome:** Bernardo Guilhon 🙋‍♂️<br>
+<span style="color:#8C2B3A;">✦</span> **Usuário:** @BernardoGuilhon<br>
+<span style="color:#8C2B3A;">✦</span> **Local:** Rio de Janeiro, Brasil 🔰<br>
+<span style="color:#8C2B3A;">✦</span> **Curso:** Análise e Desenvolvimento de Sistemas 💻<br>
+<span style="color:#8C2B3A;">✦</span> **Período:** 4º período — em andamento 📖<br>
+<span style="color:#8C2B3A;">✦</span> **Objetivo:** Desenvolvedor Full Stack em Formação | Front-end & UI Designer 🖌️
 
 </div>
 
@@ -61,12 +61,12 @@
 <br/>
 
 <!-- VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=BernardoGuilhon&color=FFFFFF&style=flat-square&label=Visitantes" alt="Visitantes"/>
+<img src="https://komarev.com/ghpvc/?username=BernardoGuilhon&color=8C2B3A&style=flat-square&label=Visitantes" alt="Visitantes"/>
 
 <br/>
 
 <a href="https://github.com/BernardoGuilhon?tab=followers">
-  <img src="https://img.shields.io/github/followers/BernardoGuilhon?label=Seguidores&style=flat-square&color=FFFFFF&labelColor=0d1117" alt="Seguidores"/>
+  <img src="https://img.shields.io/github/followers/BernardoGuilhon?label=Seguidores&style=flat-square&color=8C2B3A&labelColor=0d1117" alt="Seguidores"/>
 </a>
 
 </td>
@@ -80,7 +80,7 @@
 <!-- ══════════════════ TYPING 2 ══════════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=%3E+Inicializando+perfil...;%3E+Bem-vindo+ao+meu+GitHub;%3E+Construindo.+Aprendendo.+Criando." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8C2B3A&center=true&vCenter=true&width=700&lines=%3E+Inicializando+perfil...;%3E+Bem-vindo+ao+meu+GitHub;%3E+Construindo.+Aprendendo.+Criando." />
 
 </div>
 
@@ -363,11 +363,11 @@ Também tenho grande interesse por <strong>jogos, estética retrô, videogames, 
 
 <!-- BADGES -->
 <div align="center"> 
-  <img src="https://img.shields.io/badge/Proficiente-FFFFFF?style=flat-square&labelColor=0d1117&color=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Proficiente-8C2B3A?style=flat-square&labelColor=0d1117&color=8C2B3A"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Melhorando-FFFFFF?style=flat-square&labelColor=0d1117&color=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Melhorando-8C2B3A?style=flat-square&labelColor=0d1117&color=8C2B3A"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Estudando-FFFFFF?style=flat-square&labelColor=0d1117&color=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Estudando-8C2B3A?style=flat-square&labelColor=0d1117&color=8C2B3A"/>
 </div>
 
 ---
@@ -378,7 +378,7 @@ Também tenho grande interesse por <strong>jogos, estética retrô, videogames, 
 
 <hr>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=BernardoGuilhon&theme=dark&border=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=c9d1d9&background=0d1117" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=BernardoGuilhon&theme=dark&border=8C2B3A&ring=8C2B3A&fire=8C2B3A&currStreakLabel=8C2B3A&sideLabels=8C2B3A&dates=c9d1d9&background=0d1117" height="165"/>
 </div>
 
 ---
@@ -391,7 +391,7 @@ Também tenho grande interesse por <strong>jogos, estética retrô, videogames, 
 
 <hr>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BernardoGuilhon&bg_color=0d1117&color=FFFFFF&line=FFFFFF&point=000000&area=true&area_color=3a3a3a&border_color=FFFFFF" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BernardoGuilhon&bg_color=0d1117&color=8C2B3A&line=8C2B3A&point=FFFFFF&area=true&area_color=3B0F17&border_color=8C2B3A" width="95%"/>
 </div>
 
 ---
